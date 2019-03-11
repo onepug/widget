@@ -1,0 +1,26 @@
+ext {
+    pkg = [
+            groupId   : 'com.yimao11.widget',
+            artifactId: 'view-core',
+            version   : '1.0.0',
+            desc      : 'Some custom view.'
+    ]
+
+    developer = [
+            id   : 'yimao',
+            name : 'yimao',
+            email: '1102618590@qq.com'
+    ]
+
+    user = [
+            org: 'yimao'
+    ]
+
+    cvs = [
+            url: 'https://github.com/yimao11/Widget'
+    ]
+
+    doc = [
+            title: 'Doc for View-Core'
+    ]
+}
